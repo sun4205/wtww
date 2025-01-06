@@ -1,0 +1,6 @@
+[submodule "se_project_express"]
+	path = se_project_express
+	url = https://github.com/sun4205/se_project_express.git
+[submodule "se_project_react"]
+	path = se_project_react
+	url = https://github.com/sun4205/se_project_react.git
